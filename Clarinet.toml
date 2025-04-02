@@ -15,13 +15,13 @@ path = 'contracts/customer-verification.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.insurance-policy]
-path = 'contracts/insurance-policy.clar'
+[contracts.policy-issuance]
+path = 'contracts/policy-issuance.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.policy-issuance]
-path = 'contracts/policy-issuance.clar'
+[contracts.risk-assessment]
+path = 'contracts/risk-assessment.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
