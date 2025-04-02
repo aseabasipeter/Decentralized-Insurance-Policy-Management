@@ -7,3 +7,5 @@ L
 tests/claims-history.test.ts,3/9/39424ff523e29ce52513c52bde12cfcb290651db
 T
 $contracts/customer-verification.clar,c/c/cc2e6c17555e83b2330d9a938a982fb36e519a1c
+O
+contracts/insurance-policy.clar,a/c/acb1483e079bf2e7fedf98774ef5a75a74f977cd
